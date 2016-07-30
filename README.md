@@ -25,10 +25,11 @@ closes #23
 ```
 
 
-### 프로젝트 설정하
+### 프로젝트 설정하기
+```
 git clone https://github.com/codechobostudy/movie-webapp
 cd movie-webapp && npm install
-
+```
 
 ### 프로젝트 실행하기(개발모드)
 ```
